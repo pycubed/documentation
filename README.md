@@ -1,7 +1,7 @@
 # Documentation 📚
 Design discussions, engineering justifications, and qualification data
 
-## [⭐ See the PyCubed Resources Page for tutorials, design resources, and more!](https://www.notion.so/maholli/PyCubed-4cbfac7e9b684852a2ab2193bd485c4d)
+## [⭐ See the PyCubed Resources Page for tutorials, design resources, and more!](https://www.notion.so/maholli/All-PyCubed-Resources-8738cab0dd0743239a3cde30c6066452)
 
 # To Add
 - [x] PyCubed pinout/infographic
