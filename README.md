@@ -1,14 +1,10 @@
 # Documentation 📚
 Design discussions, engineering justifications, and qualification data
+<br>
 
-## [⭐ See the PyCubed Resources Page for tutorials, design resources, and more!](https://www.notion.so/maholli/All-PyCubed-Resources-8738cab0dd0743239a3cde30c6066452)
-
-# To Add
-- [x] PyCubed pinout/infographic
-- [ ] KickSat-2 vibe qualification data (awaiting approval) 
-- [ ] Full radiation test data (awaiting Journal approval)
-
-
+## [All PyCubed Resources](https://www.notion.so/maholli/All-PyCubed-Resources-8738cab0dd0743239a3cde30c6066452)
+Tutorials, design resources, and more!
+<br>
 <br>
 <br>
 <br>
